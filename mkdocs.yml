@@ -20,6 +20,14 @@ markdown_extensions:
 extra:
   generator: false
 
+nav:
+  - Home: index.md
+  - Commands: commands.md
+  - Legal:
+    - legal/terms.md
+    - legal/privacy.md
+  - Credits: credits.md
+
 theme:
   name: material
   favicon: fontawesome/solid/book
@@ -28,7 +36,6 @@ theme:
     logo: fontawesome/solid/book
 
   features:
-    - navigation.expandm
     - header.autohide
     - navigation.instant
     - content.tabs.link
