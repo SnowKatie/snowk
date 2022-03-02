@@ -1,0 +1,25 @@
+site_name: Truthy Docs
+markdown_extensions:
+  - pymdownx.keys
+  - footnotes
+  - pymdownx.superfences
+  - pymdownx.details
+  - admonition
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+
+theme:
+  name: material
+  features:
+    - navigation.expandm
+
+  icon:
+    logo: octicons/star-fill-16 
+
+  palette:
+    scheme: slate
+
+extra_css:
+  - stylesheets/extra.css
