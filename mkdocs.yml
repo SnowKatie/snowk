@@ -9,14 +9,25 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
+  - attr_list
+  - md_in_html
+  - pymdownx.tabbed:
+      alternate_style: true 
+
+extra:
+  generator: false
 
 theme:
   name: material
-  features:
-    - navigation.expandm
+  favicon: fontawesome/solid/book
 
   icon:
-    logo: octicons/star-fill-16 
+    logo: fontawesome/solid/book
+
+  features:
+    - navigation.expandm
+    - header.autohide
+    - content.tabs.link
 
   palette:
     scheme: slate

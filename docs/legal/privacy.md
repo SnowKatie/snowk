@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Privacy Policy
 
 Terms of Service for the following Application:

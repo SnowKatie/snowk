@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Terms of Service
 
 Terms of Service for the following Application:
