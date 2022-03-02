@@ -51,7 +51,7 @@ All of these amazing people have in some way contributed towards our Truthy bot 
         !!! success "Suggestion Managing"
         !!! success "Ticket Managing"
 
-**Special Thanks**
+:heart: **Special Thanks** :heart:
 
 !!! tip "Dalekfodder#0649"
 !!! tip "Agryon#4003"
