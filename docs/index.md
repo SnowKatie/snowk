@@ -6,7 +6,7 @@ hide:
 
 [![Image title](images/truthy.png){ align=right }](https://discord.com/oauth2/authorize?client_id=941836651037098037&permissions=2147486720&scope=bot%20applications.commands)
 
-# Welcome to SnowKaties (Snowk) Documents
+# Welcome to Truthy Docs
 
 ## **Message from Katie**
 
