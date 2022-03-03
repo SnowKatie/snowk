@@ -3,16 +3,13 @@ hide:
   - toc
 ---
 # snowk-job-elec
-## This is the Documentation for the Addon: :material-file-code: ``snowk-job-elec``
+## :material-file-code: ``snowk-job-elec``
 
-!!! success "Hooray! This Addon is marked as Actively Supported"
 !!! bug "This Addon is still in development"
     Please be aware that this Addon is still in its development stage, no Addon comes out of the development stage until I'm satisfied that it is entirely where I want it to be. As per our promises, no Addon will be abandoned during development.
 
 ---
 ## **Information about this addon**
-**:material-file-code: snowk-job-elec**
-<br>
 This is a **job addon** and adds an extra job for your players to mess around with and earn money from, players will be able to head over to an NPC location and begin a new job working for the marked NPC — upon doing so they will be able to go around the city repairing various electrical boxes and public utility.
 !!! warning "Dependencies, *These are required for this addon to function*"
     :material-file-code: **qtarget** ``Price: Free`` ``Developer: Noms`` ``Type: Click Menu`` [``Download``](https://forum.cfx.re/t/qtarget-a-re-written-and-optimised-third-eye-solution/3984356)
