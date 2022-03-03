@@ -1,4 +1,4 @@
-site_name: Truthy Docs
+site_name: Snowk Mods & Addons
 markdown_extensions:
   - pymdownx.keys
   - footnotes
@@ -11,6 +11,10 @@ markdown_extensions:
   - pymdownx.tilde
   - attr_list
   - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -22,11 +26,8 @@ extra:
 
 nav:
   - Home: index.md
-  - Commands: commands.md
-  - Legal:
-    - legal/terms.md
-    - legal/privacy.md
-  - Credits: credits.md
+  - Addons:
+    - snowk-job-elec: addons/snowk-job-elec.md
 
 theme:
   name: material
@@ -41,20 +42,21 @@ theme:
     - content.tabs.link
 
   palette: 
-
-
     - scheme: slate
+      primary: red
+      accent: red
       toggle:
         icon: material/toggle-switch-off-outline 
 
 
         name: Switch to light mode
     - scheme: default 
+      primary: red
+      accent: red
 
 
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
-
 extra_css:
   - stylesheets/extra.css

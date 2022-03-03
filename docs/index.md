@@ -2,18 +2,23 @@
 hide:
   - toc
 ---
-
-
-[![Image title](images/truthy.png){ align=right }](https://discord.com/oauth2/authorize?client_id=941836651037098037&permissions=2147486720&scope=bot%20applications.commands)
-
 # Welcome to SnowKatie's (Snowk) Mods & Addons
 
 ## **Message from Katie**
 
-First of all, I'd like to **personally** thank you for choosing my modest **Truth or Dare** Discord bot and know it means a lot to me how many people have fun and connect together using what I've created here. With that being said, these are the official documents for the **Truthy** Discord bot, I'll do my best to keep these up to date and relevant.
+*First of all I'd like to happily thank anyone who has chosen to use my addons — I have only just started my journey as a FiveM addon developer and I'm fully dedicated towards developing more addons in the future. Anyone who chooses to support me will have my full unconditional and good-faith support to any of their needs in relation to my addons. I will never abandon an addon unless it is completely finished and bug-free.*
 
-## **What is Truthy Docs?**
+## **Katies Promises**
+These are my absolute promises and I will value these completely until I conclude developing on the FiveM platform.
 
-Everything in these documents relates to the ``Truthy, Truth or Dare`` Discord application & bot. We serve all of the commands here with help for each command and also have our important legal documentation such as our Privacy Policy and our Terms of Service. Please take a look around and read over them!
+!!! success "No addon will be abandoned"
+    Any addon that is not in a finished state **or** currently has bugs that hinder its usage will not be abandoned.
 
-[Join the Official Support Discord](https://discord.gg/KPmXsWZYHD){ .md-button .md-button--primary }
+!!! success "I will resolve issues in a timely manner"
+    I will do my best to resolve any issues you may have as quickly as possible.
+
+!!! success "I will always strive to build a solid server-side"
+    I have a history of Client to Server communication auditing and understand, more than most the hooking possibilities of bad actors and cheaters, I understand wholely that no client-side communication can be trusted and will strive, in all my scripts where possible, to prevent abuse from lying to Server Events.
+
+!!! success "I will support large library addons or systems"
+    As long as I have access and they are reasonablly coded I will make an attempt to support the addon or library you use for your Menus, Games, etc.
