@@ -19,45 +19,111 @@ This is a **job addon** and adds an extra job for your players to mess around wi
 !!! note "Supports, *These are supported and optional, addon will function without them*"
     :material-file-code: **swt_notifications** ``Price: Free`` ``Developer: Switty6`` ``Type: Click Menu`` [``Download``](https://github.com/Switty6/swt_notifications)
     <br>
+    :material-file-code: **mythic_progbar** ``Price: Free`` ``Developer: HalCroves`` ``Type: Progress Bar`` [``https://github.com/HalCroves/mythic_progbar``](https://github.com/Switty6/swt_notifications)
 
 ---
 ## **Configuration Guide**
 When configuring any of my addons please note that the advanced configuration will not be supported if you change it, such configurations are built for people with more technical knowledge and if you change this you are presumed to know what you're doing thus you will be given no support.
 
-**Simple Config Information**
-=== "Framework"
+**Simple Config: ``Required Dependencys``**
+=== "framework"
 
     ``` lua
-    simpleConfig = {
-      Framework = "ESX",
-    }
+    simpleConfig.framework = "ESX"
     --[[
       Supported: ESX
       None aka "" is not supported. This configuration is required.
     --]]
     ```
 
-=== "Menu"
+=== "menu"
 
     ``` lua
-    simpleConfig = {
-      Menu = "qtarget",
-    }
+    simpleConfig.menu = "qtarget"
     --[[
       Supported: qtarget
       None aka "" is not supported. This configuration is required.
     --]]
     ```
 
-=== "Notify"
+**Simple Config: ``Optional Addons``**
+=== "notify"
 
     ``` lua
-    simpleConfig = {
-      Notify = "swt",
-    }
+    simpleConfig.notify = "swt"
     --[[
       Supported: swt
       None aka "" is allowed, this is an optional configuration.
+    --]]
+    ```
+
+=== "cdGarage"
+
+    ``` lua
+    simpleConfig.cdGarage = true
+    --[[
+      This should be set to true if you are using the addon cdGarage.
+    --]]
+    ```
+**Simple Config: ``Other Configs``**
+
+=== "npcLocation"
+
+    ``` lua
+    simpleConfig.npcLocation.coords = vector3(738.6884, 135.3527, 79.7287)
+    simpleConfig.npcLocation.heading = 221.3609
+    --[[
+      These two values are for where your NPC spawns, the first is the location with an X, Y and Z coord. The second
+      is a heading which is the direction he'll be facing.
+    --]]
+    ```
+
+=== "vehicleLocation"
+
+    ``` lua
+    simpleConfig.vehicleLocation.coords = vector3(738.6884, 135.3527, 79.7287)
+    simpleConfig.vehicleLocation.heading = 221.3609
+    --[[
+      These two values are for where your Vehicle spawns, the first is the location with an X, Y and Z coord. The second
+      is a heading which is the direction it'll be facing.
+    --]]
+    ```
+
+=== "payPerRepair"
+
+    ``` lua
+    simpleConfig.payPerRepair = 200
+    --[[
+      This is the payment per repair done, for example if a player does 10 jobs they'll get 10 * 200 = 2000
+    --]]
+    ```
+
+=== "repairTime"
+
+    ``` lua
+    simpleConfig.repairTime = 10
+    --[[
+      The time (in seconds) that a repair takes before completion.
+    --]]
+    ```
+
+=== "payPerRepair"
+
+    ``` lua
+    simpleConfig.payPerRepair = 200
+    --[[
+      This is the payment per repair done, for example if a player does 10 jobs they'll get 10 * 200 = 2000
+    --]]
+    ```
+
+=== "repairJobsMin & repairJobsMax"
+
+    ``` lua
+    simpleConfig.repairJobsMax = 14
+    simpleConfig.repairJobsMin = 5 
+    --[[
+      These control the maximum and minimum jobs you will have per shift. It'll be randomized between these two values, Max being of course, the Max.
+      And min, you guessed it; The min.
     --]]
     ```
 
