@@ -1,5 +1,8 @@
 site_name: Snowk Mods & Addons
 markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.keys
   - footnotes
   - pymdownx.superfences
@@ -26,8 +29,13 @@ extra:
 
 nav:
   - Home: index.md
+  - Support and Requests: support.md
+  - Subscription: subscription.md
   - Addons:
-    - snowk-job-elec: addons/snowk-job-elec.md
+    - snowk-jobs-elec: addons/snowk-jobs-elec.md
+  - Legal:
+    - Terms and Conditions: terms.md
+    - Refund Policy: refunds.md
 
 theme:
   name: material
@@ -42,21 +50,9 @@ theme:
     - content.tabs.link
 
   palette: 
-    - scheme: slate
-      primary: red
-      accent: red
-      toggle:
-        icon: material/toggle-switch-off-outline 
+    scheme: slate
+    primary: blue
+    accent: blue
 
-
-        name: Switch to light mode
-    - scheme: default 
-      primary: red
-      accent: red
-
-
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to dark mode
 extra_css:
   - stylesheets/extra.css

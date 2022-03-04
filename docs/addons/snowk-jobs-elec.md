@@ -2,11 +2,15 @@
 hide:
   - toc
 ---
-# snowk-job-elec
-## :material-file-code: ``snowk-job-elec``
+<figure markdown>
+  ![Banner Logo](../images/jobs.png)
+</figure>
+# snowk-jobs-elec
+## :material-file-code: ``snowk-jobs-elec``
 
-!!! bug "This Addon is still in development"
-    Please be aware that this Addon is still in its development stage, no Addon comes out of the development stage until I'm satisfied that it is entirely where I want it to be. As per our promises, no Addon will be abandoned during development.
+- [x] Currently maintained and supported!
+- [x] Part of the [Snowk Patreon](#)
+    * [x] You can buy this addon individually
 
 ---
 ## **Information about this addon**
@@ -104,15 +108,6 @@ When configuring any of my addons please note that the advanced configuration wi
     simpleConfig.repairTime = 10
     --[[
       The time (in seconds) that a repair takes before completion.
-    --]]
-    ```
-
-=== "payPerRepair"
-
-    ``` lua
-    simpleConfig.payPerRepair = 200
-    --[[
-      This is the payment per repair done, for example if a player does 10 jobs they'll get 10 * 200 = 2000
     --]]
     ```
 

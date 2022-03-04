@@ -2,6 +2,9 @@
 hide:
   - toc
 ---
+<figure markdown>
+  ![Banner Logo](images/snowklogo.png)
+</figure>
 # Welcome to SnowKatie's (Snowk) Mods & Addons
 
 ## **Message from Katie**
@@ -22,3 +25,6 @@ These are my absolute promises and I will value these completely until I conclud
 
 !!! success "I will support large library addons or systems"
     As long as I have access and they are reasonablly coded I will make an attempt to support the addon or library you use for your Menus, Games, etc.
+
+!!! success "I will release a minimum of 1 script per month."
+    One script per month of good quality will be produced.
