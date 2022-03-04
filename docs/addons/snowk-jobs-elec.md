@@ -9,8 +9,6 @@ hide:
 ## :material-file-code: ``snowk-jobs-elec``
 
 - [x] Currently maintained and supported!
-- [x] Part of the [Snowk Patreon](../subscription.md)
-    * [x] You can buy this addon individually
 
 ---
 ## **Information about this addon**
