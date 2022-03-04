@@ -23,7 +23,7 @@ This is a **job addon** and adds an extra job for your players to mess around wi
 !!! note "Supports, *These are supported and optional, addon will function without them*"
     :material-file-code: **swt_notifications** ``Price: Free`` ``Developer: Switty6`` ``Type: Click Menu`` [``Download``](https://github.com/Switty6/swt_notifications)
     <br>
-    :material-file-code: **mythic_progbar** ``Price: Free`` ``Developer: HalCroves`` ``Type: Progress Bar`` [``https://github.com/HalCroves/mythic_progbar``](https://github.com/Switty6/swt_notifications)
+    :material-file-code: **mythic_progbar** ``Price: Free`` ``Developer: HalCroves`` ``Type: Progress Bar`` [``Download``](https://github.com/HalCroves/mythic_progbar)
 
 ---
 ## **Configuration Guide**
@@ -126,10 +126,10 @@ When configuring any of my addons please note that the advanced configuration wi
 ## **Technical Information**
 | Title| Information||||
 ||||||
-| Last Update| `3rd of March, 2022.`||||
+| Last Update| `4th of March, 2022.`||||
 | Contributors| `Katie` `Averul`||||
 | Script Type| `Job`||||
-| Release| `Unreleased`||||
+| Release| `Pre-release`||||
 
 
 [Get This Addon](#){ .md-button .md-button--primary } [Get All My Addons](#){ .md-button }
