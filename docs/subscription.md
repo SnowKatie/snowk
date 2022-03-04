@@ -8,15 +8,17 @@ hide:
 # Supporting SnowKatie and my Addons
 
 ## What does Subscribing to Patreon get you?
+!!! failure "Patreon and Subscriptions are not yet available. Please buy addons individually."
+
 !!! success "One-Time offer for early supporters"
-    Ending on ``April 5th`` or when we hit ``50`` Patreons, I'm setting up a **one time** offer that will never be recreated! The Full-Access tier will get access to **all** future scripts whilst in our Patreon. On ``April 5th`` this Patreon tier will be unavailable to any new customers, existing customers will then have full access to all future scripts.
+    Ending on ``TO BE DECIDED`` or when we hit ``50`` Patreons, I'm setting up a **one time** offer that will never be recreated! The Full-Access tier will get access to **all** future scripts whilst in our Patreon. On ``TO BE DECIDED`` this Patreon tier will be unavailable to any new customers, existing customers will then have full access to all future scripts.
 
     Note, as in our promises, we will release a minimum of ``1 Script Per Month.``! That's our minimum.
 
 ---
 
 ## Available Tiers Currently.
-> *Full-Tier is only available until ``April 5th``, after this date only the Supporter Tier will be available. Any existing customers will keep Full-Tier*
+> *Full-Tier is only available until ``TO BE DECIDED``, after this date only the Supporter Tier will be available. Any existing customers will keep Full-Tier*
 
 <figure markdown>
   ![Packages](images/packages.png)

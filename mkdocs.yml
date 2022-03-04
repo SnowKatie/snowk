@@ -39,10 +39,8 @@ nav:
 
 theme:
   name: material
-  favicon: fontawesome/solid/book
-
-  icon:
-    logo: fontawesome/solid/book
+  favicon: images/snowkbox.png
+  logo: images/snowkbox.png
 
   features:
     - header.autohide
