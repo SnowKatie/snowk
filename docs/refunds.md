@@ -32,11 +32,11 @@ Updated: **4th of March, 2022.**
 
 **1.2** Digital Products have a **5 day** refund window, in the event that the Digital Product, such as, but not limited to, scripts and addons are not working as intended you are obliged to refund within this **5 day** window of your initial invoice. After this window Digital Products are **non-refundable**.
 
-**1.3** You may cancel Your Patreon subscription at any time for any reason however due to the nature of Digital Product and our Bundles, subscriptions are completely **non-refundable** unless one of the following conditions apply:
+**1.3** You may cancel Your Package subscription at any time for any reason however due to the nature of Digital Product and our Bundles, subscriptions are completely **non-refundable** unless one of the following conditions apply:
 - We have breached the Terms and Conditions to You, the Customer.
 
 ### 3. **5 Day Refund Window**
-**1.1** Upon purchasing a product *(This does not apply to Patreon Subscriptions,)* you have a window of **5 days** in which you may request a refund from the developer. This refund is only obliged if one of the following conditions is met:
+**1.1** Upon purchasing a product you have a window of **5 days** in which you may request a refund from the developer. This refund is only obliged if one of the following conditions is met:
 
 - The Digital Product is not working correctly.
 - The product is **inaccessable** to You, the Customer.

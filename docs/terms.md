@@ -32,7 +32,7 @@ Updated: **4th of March, 2022.**
 
 **2.2** All promises listed [here](../) are subject to change at any time. Should circumstance change for the developer, Katie these promises may not be kept. We will do our best in good faith to always keep these promises and should a promise not be kept, We will do Our best to notify You of why.
 
-**2.3** Any Digital Product You purchase has promised support for a minimum period of **one month** after your initial purchase. If You are subscribed to Our Patreon, We will support the product until Your subscription ends and then a minimum period of **one month** after your last payment was taken.
+**2.3** Any Digital Product You purchase has promised support for a minimum period of **one month** after your initial purchase. If You are subscribed to Our packages, We will support the product until Your subscription ends and then a minimum period of **one month** after your last payment was taken.
 
 **2.4** We reserve the right to deactivate individual features, applications, scripts or programs as necessary in the interests of technical progress, security, availability of technical support on the provider or manufacturer side, to ensure the stable operation and integrity of Our systems.
 

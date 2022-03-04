@@ -30,7 +30,7 @@ extra:
 nav:
   - Home: index.md
   - Support and Requests: support.md
-  - Subscription: subscription.md
+  - Packages: packages.md
   - Addons:
     - snowk-jobs-elec: addons/snowk-jobs-elec.md
   - Legal:
