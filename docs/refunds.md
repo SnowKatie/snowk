@@ -37,6 +37,8 @@ Updated: **4th of March, 2022.**
 
 ### 3. **5 Day Refund Window**
 **1.1** Upon purchasing a product *(This does not apply to Patreon Subscriptions,)* you have a window of **5 days** in which you may request a refund from the developer. This refund is only obliged if one of the following conditions is met:
+
 - The Digital Product is not working correctly.
 - The product is **inaccessable** to You, the Customer.
 - You have only purchased **1** product in the last 5 days.
+- A period no longer than **1 Month** has passed since purchase and one of our **promises** have been broken.
