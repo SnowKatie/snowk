@@ -130,4 +130,4 @@ When configuring any of my addons please note that the advanced configuration wi
 | Release| `Pre-release`||||
 
 
-[Get This Addon](#){ .md-button .md-button--primary } [Get All My Addons](#){ .md-button }
+[Get This Addon](https://snowk.tebex.io/category/2054875){ .md-button .md-button--primary }
