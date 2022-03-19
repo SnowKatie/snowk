@@ -14,9 +14,18 @@ hide:
 ## **Information about this addon**
 This is a **job addon** and adds an extra job for your players to mess around with and earn money from, players will be able to head over to an NPC location and begin a new job working for the marked NPC — upon doing so they will be able to go around the city repairing various electrical boxes and public utility.
 !!! warning "Dependencies, *These are required for this addon to function*"
-    :material-file-code: **qtarget** ``Price: Free`` ``Developer: Noms`` ``Type: Click Menu`` [``Download``](https://forum.cfx.re/t/qtarget-a-re-written-and-optimised-third-eye-solution/3984356)
+    Target Choices:
+    <br>
+    :material-file-code: **qtarget** ``ESX`` ``Price: Free`` ``Developer: Noms`` ``Type: Click Menu`` [``Download``](https://forum.cfx.re/t/qtarget-a-re-written-and-optimised-third-eye-solution/3984356)
+    <br>
+    :material-file-code: **qb-target** ``QBCore`` ``Price: Free`` ``Developer: BerkieBb`` ``Type: Click Menu`` [``Download``](https://github.com/BerkieBb/qb-target)
+    <br>
+    <br>
+    Framework Choices:
     <br>
     :material-file-code: **ESX** ``Price: Free`` ``Type: Framework`` [``Download``](https://github.com/esx-framework)
+    <br>
+    :material-file-code: **QBCore** ``Price: Free`` ``Type: Framework`` [``Download``](https://github.com/qbcore-framework)
 
 !!! note "Supports, *These are supported and optional, addon will function without them*"
     :material-file-code: **swt_notifications** ``Price: Free`` ``Developer: Switty6`` ``Type: Click Menu`` [``Download``](https://github.com/Switty6/swt_notifications)
@@ -33,7 +42,7 @@ When configuring any of my addons please note that the advanced configuration wi
     ``` lua
     simpleConfig.framework = "ESX"
     --[[
-      Supported: ESX
+      Supported: ESX, QB
       None aka "" is not supported. This configuration is required.
     --]]
     ```
@@ -43,7 +52,7 @@ When configuring any of my addons please note that the advanced configuration wi
     ``` lua
     simpleConfig.menu = "qtarget"
     --[[
-      Supported: qtarget
+      Supported: qtarget, qb-target
       None aka "" is not supported. This configuration is required.
     --]]
     ```
@@ -124,10 +133,10 @@ When configuring any of my addons please note that the advanced configuration wi
 ## **Technical Information**
 | Title| Information||||
 ||||||
-| Last Update| `4th of March, 2022.`||||
+| Last Update| `19th of March, 2022.`||||
 | Contributors| `Katie` `Averul`||||
 | Script Type| `Job`||||
-| Release| `Pre-release`||||
+| Release| `19.3.22`||||
 
 
 [Get This Addon](https://snowk.tebex.io/category/2054875){ .md-button .md-button--primary }
